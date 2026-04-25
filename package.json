@@ -1,0 +1,33 @@
+{
+  "name": "code-shark",
+  "version": "1.0.1",
+  "description": "A predatory tool that hunts and removes lines of code when you're idle 🦈",
+  "main": "src/index.js",
+  "bin": {
+    "code-shark": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code-shark",
+    "code-remover",
+    "idle",
+    "chaos-engineering",
+    "developer-tools",
+    "predator",
+    "shark"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^10.3.10",
+    "minimatch": "^9.0.3",
+    "yargs": "^17.7.2",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
