@@ -183,7 +183,4 @@ This tool is provided as-is for testing and chaos engineering purposes. The auth
 
 Issues and pull requests welcome at the GitHub repository.
 
-Remember: With great power comes great responsibility. Use wisely! 🎭# code-shark
-# code-shark
-# code-shark
-# code-shark
+Remember: With great power comes great responsibility. Use wisely! 🎭
